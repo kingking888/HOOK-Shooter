@@ -1,6 +1,6 @@
 
 # [HOOK生死狙击](http://wudao6.cn/default/7.html)
-若有任何意见或发现任何BUG欢迎访问到我的博客www.wudao6.cn留言，Github可能无法及时回复
+若有任何意见或发现任何BUG欢迎访问到我的博客blog.wudao6.cn留言，Github可能无法及时回复
 
 **生死狙击HOOK透视自瞄 For ganmehack**
 ## 介绍
